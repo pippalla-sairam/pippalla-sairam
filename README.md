@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer | MERN Stack | ML Enthusiast | Cloud in AWS</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sairam-pippalla&label=Profile%20Views&color=0e75b6&style=flat" alt="sairam-pippalla" />
+  <img src="https://komarev.com/ghpvc/?username=sairam76&label=Profile%20Views&color=0e75b6&style=flat" alt="sairam-pippalla" />
 </p>
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -31,12 +31,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairam-pippalla&show_icons=true&theme=radical" alt="sairam-pippalla" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sairam76&show_icons=true&theme=radical" alt="sairam-pippalla" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sairam-pippalla&theme=radical&hide_border=true" alt="sairam-pippalla" />
+  <img src="https://streak-stats.demolab.com?user=sairam76&theme=radical&hide_border=true" alt="sairam-pippalla" />
 </p>
 
 ### 🌐 Connect with Me
