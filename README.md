@@ -48,4 +48,5 @@
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairam-pippalla-a3bb3a2b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pippalla-sairam)
-[![Resume]]([https://github.com/pippalla-sairam](https://drive.google.com/file/d/1HnALD37we3gAlA6BVFsu2vG-fsuv5tTt/view?usp=sharing))
+[![Resume](https://img.shields.io/badge/Resume-FF5733?style=for-the-badge)](https://drive.google.com/file/d/1HnALD37we3gAlA6BVFsu2vG-fsuv5tTt/view?usp=sharing)
+
