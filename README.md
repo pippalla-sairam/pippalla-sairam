@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pippalla Sairam</h1>
-<h3 align="center">Aspiring Software Developer | MERN Stack | ML Enthusiast | Cloud in AWS</h3>
+<h1 align="center">Hi 👋, I'm Pippalla Sairam</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pippalla-sairam&label=Profile%20Views&color=0e75b6&style=flat" alt="sairam-pippalla" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;MERN+Stack+Developer;ML+Enthusiast;Cloud+in+AWS" alt="Typing SVG" />
 </p>
 
 - 🌱 I’m currently learning **MERN Stack**
