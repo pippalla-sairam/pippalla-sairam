@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pippalla Sairam</h1>
 <h3 align="center">Aspiring Software Developer | MERN Stack | ML Enthusiast | Cloud in AWS</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=pippalla-sairam&label=Profile%20Views&color=0e75b6&style=flat" alt="sairam-pippalla" />
 </p>
 
@@ -11,8 +11,8 @@
 - 🎯 Interested in **Machine Learning, Web Development, and Cloud Technologies (AWS)**
 - 🎓 B.Tech CSE Student at **SR University (3rd Year)**
 - 💻 Solving DSA problems on [LeetCode](https://leetcode.com/u/sairam_pippalla)
-- 📫 Reach me at **[pippallasairam0@gmail.com]**
-- 📜 My Portfolio: [https://sairampippalla-portfolio.netlify.app/]
+- 📫 Reach me at **[pippallasairam0@gmail.com](mailto:pippallasairam0@gmail.com)**
+- 📜 My Portfolio: [sairampippalla-portfolio.netlify.app](https://sairampippalla-portfolio.netlify.app/)
 
 ### 🚀 Technologies & Tools
 <p>
@@ -37,16 +37,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pippalla-sairam&show_icons=true&theme=radical" alt="sairam-pippalla" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pippalla-sairam&show_icons=true&theme=tokyonight" alt="sairam-pippalla" />
 </p>
 
 ### 🔥 Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=pippalla-sairam&theme=radical&hide_border=true" alt="sairam-pippalla" />
+  <img src="https://streak-stats.demolab.com?user=pippalla-sairam&theme=tokyonight&hide_border=true" alt="sairam-pippalla" />
 </p>
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairam-pippalla-a3bb3a2b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pippalla-sairam)
-[![Resume](https://img.shields.io/badge/Resume-FF5733?style=for-the-badge)](https://drive.google.com/file/d/1HnALD37we3gAlA6BVFsu2vG-fsuv5tTt/view?usp=sharing)
-
+[![Resume](https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HnALD37we3gAlA6BVFsu2vG-fsuv5tTt/view?usp=sharing)
