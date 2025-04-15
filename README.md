@@ -7,9 +7,9 @@
 - I am a 3rd year BTech student in Computer Science and Engineering
 - Interested in Web Development using MERN stack
 - Built projects like **Job Applications Manager**, **Secure Credentials Manager**, and **E-Commerce website**
-- 💻 Solving DSA problems on [LeetCode](https://leetcode.com/u/sairam_pippalla)
-- 📫 Reach me at **[pippallasairam0@gmail.com](mailto:pippallasairam0@gmail.com)**
-- 📜 My Portfolio: [sairampippalla-portfolio.netlify.app](https://sairampippalla-portfolio.netlify.app/)
+- Solving DSA problems on [LeetCode](https://leetcode.com/u/sairam_pippalla)
+- Reach me at **[pippallasairam0@gmail.com](mailto:pippallasairam0@gmail.com)**
+- My Portfolio: [sairampippalla-portfolio.netlify.app](https://sairampippalla-portfolio.netlify.app/)
 
 ### 🚀 Technologies & Tools
 <p>
