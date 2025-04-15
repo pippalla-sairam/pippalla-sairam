@@ -4,11 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;MERN+Stack+Developer;ML+Enthusiast;Cloud+in+AWS" alt="Typing SVG" />
 </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-- 🏆 Selected for **ASIANCON 2024** for my **Titanic Survival Predictor** research paper
-- 🚀 Built projects like **Spotify Clone**, **ToDo List App**, and **Mental Health Support Platform**
-- 🎯 Interested in **Machine Learning, Web Development, and Cloud Technologies (AWS)**
-- 🎓 B.Tech CSE Student at **SR University (3rd Year)**
+- I am a 3rd year BTech student in Computer Science and Engineering
+- Interested in Web Development using MERN stack
+- Built projects like **Job Applications Manager**, **Secure Credentials Manager**, and **E-Commerce website**
 - 💻 Solving DSA problems on [LeetCode](https://leetcode.com/u/sairam_pippalla)
 - 📫 Reach me at **[pippallasairam0@gmail.com](mailto:pippallasairam0@gmail.com)**
 - 📜 My Portfolio: [sairampippalla-portfolio.netlify.app](https://sairampippalla-portfolio.netlify.app/)
