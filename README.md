@@ -10,6 +10,7 @@
 - Solving DSA problems on [LeetCode](https://leetcode.com/u/sairam_pippalla)
 - Reach me at **[pippallasairam0@gmail.com](mailto:pippallasairam0@gmail.com)**
 - My Portfolio: [sairampippalla-portfolio.netlify.app](https://sairampippalla-portfolio.netlify.app/)
+- Here's my attached Resume [Resume](https://drive.google.com/file/d/1HnALD37we3gAlA6BVFsu2vG-fsuv5tTt/view?usp=sharing)
 
 ### 🚀 Technologies & Tools
 <p>
