@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Aspiring+Software+Developer;MERN+Stack+Developer;ML+Enthusiast;Cloud+in+AWS" alt="Typing SVG" />
 </p>
 
-- I am a 3rd year BTech student in Computer Science and Engineering
+- I am a Final year BTech student in Computer Science and Engineering
 - Interested in Web Development using MERN stack
 - Built projects like **Job Applications Manager**, **Secure Credentials Manager**, and **E-Commerce website**
 - Solving DSA problems on [LeetCode](https://leetcode.com/u/sairam_pippalla)
