@@ -12,7 +12,7 @@
 - My Portfolio: [sairampippalla-portfolio.netlify.app](https://sairampippalla-portfolio.netlify.app/)
 - Want to know more about me: [Resume](https://drive.google.com/file/d/1HnALD37we3gAlA6BVFsu2vG-fsuv5tTt/view?usp=sharing)
 
-### 🚀 Technologies & Tools
+### Technologies & Tools
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -33,17 +33,17 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pippalla-sairam&show_icons=true&theme=tokyonight" alt="sairam-pippalla" />
 </p>
 
-### 🔥 Streak Stats
+### Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pippalla-sairam&theme=tokyonight&hide_border=true" alt="sairam-pippalla" />
 </p>
 
-### 🌐 Connect with Me
+### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairam-pippalla-a3bb3a2b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pippalla-sairam)
 [![Resume](https://img.shields.io/badge/Resume-FF5733?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1HnALD37we3gAlA6BVFsu2vG-fsuv5tTt/view?usp=sharing)
